@@ -24,6 +24,7 @@ Discord:
 ## Education
 
 Specialist, Ufa State Petrolium University, Ufa
+Web-development, Yandex Prakticum
 
 Languages
 
