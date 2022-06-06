@@ -4,8 +4,12 @@
 ## My Contact Info
 
 E-mail: artemkhudiakov@gmail.com
+
 LinkedIn: artem-khudiakov
+
 GitHub: ArtemKhudiakov
+
+Discord:
 
 ## Skills
 
