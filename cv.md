@@ -36,10 +36,18 @@ I have good knowledge of HTML, CSS, JavaScript and React and ready to learn Angu
 
 ## Working experience
 
-Top manager, Foreign language Academy, Ufa, 2014-2022
+Top manager, Foreign language Academy(Region leader), Ufa, 2014-2022
+
+**Achievements:**
+1. 25% increasing of students quantity
+2. 95% at least - the level of success students agreements
+3. Quick build an excellent pandemic workflow
+4. The best company's employee
+5. The best organization of foreign exam with 200-300 graduates every year.
 
 System administrator, Foreign language Academy, Ufa, 2014-2022
 
+**Achievements:**
 
 
 
@@ -50,5 +58,5 @@ Web-development, Yandex Practicum, 2022
 
 ## Languages
 
-Russian -
-English
+Russian - fluent
+English - C1
