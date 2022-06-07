@@ -13,6 +13,8 @@ GitHub: ArtemKhudiakov
 
 Discord: berezansky
 
+Codewars: ArtemKhudiakov
+
 ---
 I'm Frontend developer
 I've an experience in project management as top manager in foreign language Academy.
