@@ -51,7 +51,7 @@ h1, h2, h3, p, li {
 
 .headline {
   align-self: center;
-  padding-top: 35px;
+  padding-top: 30px;
   padding-bottom: 15px;
   font-size: 40px;
 }
@@ -92,7 +92,9 @@ h1, h2, h3, p, li {
   align-items: flex-start;
 }
 
-.achievements__item {
+.achievements__item,
+.experience__item
+{
   margin-left: 20px;
 }
 
