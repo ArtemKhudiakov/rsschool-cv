@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, p, li {
+  color: #AAAAAA;
+}
+
+.root {
+  margin: 0 auto;
+  padding: 0;
+  background-color: #082032;
+  max-width: 1440px;
+}
+
+.main {
+  display: flex;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.header__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  align-items:
+}
+
+
+.info {
+  background-color: #2C394B;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-start;
+  min-width: 400px;
+  max-width: 600px;
+  padding: 30px;
+}
+
+.headline {
+  align-self: center;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  font-size: 40px;
+}
+
+.info__avatar {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0 20px;
+}
+
+.info__name {
+  align-self: center;
+  margin: 0;
+  font-size: 62px;
+  font-weight: bold;
+}
+
+.info__description {
+  align-self: center;
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.item {
+  font-size: 26px;
+  list-style: none;
+  margin: 5px;
+}
+
+.about {
+  background-color: #334756;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.achievements__item,
+.experience__item
+{
+  margin-left: 20px;
+}
+
+.text {
+  padding: 20px;
+  font-size: 26px;
+}
+
+.info__code-text {
+  background-color: black;
+  color: #AAAAAA;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+.footer__link {
+  text-decoration: none;
+  color: #FF4C29;
+  outline: none;
+  font-size: 46px;
+}
+
+.info__code-text {
+  margin: 15px;
+}
+
+
